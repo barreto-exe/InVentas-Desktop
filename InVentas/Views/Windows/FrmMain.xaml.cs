@@ -13,14 +13,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace InVentas
+namespace InVentas.Windows
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class FrmPrincipal : Window
+    public partial class FrmMain : Window
     {
-        public FrmPrincipal()
+        public FrmMain()
         {
             InitializeComponent();
         }
